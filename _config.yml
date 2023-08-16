@@ -1,5 +1,5 @@
 title: 일상기록기
-description: better than yesterday.
+description: "better than yesterday."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bigsan2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -9,7 +9,7 @@ author-image: 13.jpeg
 author-job: Security Engineer
 author-email: bigsan224@gmail.com # Add your email for contant form.
 author-twitter: bigsan224 # Add your twitter account
-about-author: I am a Security Engineer. Always hungry to keep learning.
+about-author: I am a Security Engineer.<br>Always hungry to keep learning.
 
 # Social settings
 social-twitter: bigsan224
