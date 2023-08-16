@@ -10,13 +10,18 @@ sidebar-category:
     children:
       - title: "일상"
         url: "/today"
+        category: "일상"
       - title: "게임"
         url: "/game"
+        category: "게임"
       - title: "애니"
         url: "/ani"
+        category: "애니"
   - title: "🖥️ 기술"
     children:
       - title: "Web/Mobile"
         url: "/webmobile"
+        category: "Web/Mobile"
       - title: "Reversing"
         url: "/reversing"
+        category: "Reversing"
