@@ -2,9 +2,21 @@
 main:
   #- title: "Home"
   #  url: "/"
-  - title: "Introduce"
-    url: /about/
-  - title: "Category"
-    url: "/categories/"
-  - title: "Tags"
-    url: /tags/
+  - title: "Search"
+    url: /search
+
+sidebar-category:
+  - title: "🎞️ LIFE"
+    children:
+      - title: "일상"
+        url: "/today"
+      - title: "게임"
+        url: "/game"
+      - title: "애니"
+        url: "/ani"
+  - title: "🖥️ 기술"
+    children:
+      - title: "Web/Mobile"
+        url: "/webmobile"
+      - title: "Reversing"
+        url: "/reversing"
