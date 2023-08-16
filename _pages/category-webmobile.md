@@ -2,6 +2,9 @@
 title: "Web/Mobile"
 layout: archive
 permalink: /webmobile
+toc: true
+toc_sticky: true
+toc_label: "MYSELF"
 sidebar:
   nav: "sidebar-category"
 ---

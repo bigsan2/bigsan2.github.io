@@ -2,6 +2,9 @@
 title: "게임"
 layout: archive
 permalink: /game
+toc: true
+toc_sticky: true
+toc_label: "MYSELF"
 sidebar:
   nav: "sidebar-category"
 ---

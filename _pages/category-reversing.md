@@ -2,6 +2,9 @@
 title: "Reversing"
 layout: archive
 permalink: /reversing
+toc: true
+toc_sticky: true
+toc_label: "MYSELF"
 sidebar:
   nav: "sidebar-category"
 ---
