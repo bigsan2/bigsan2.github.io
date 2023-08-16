@@ -96,9 +96,9 @@ social:
 
 # Analytics
 analytics:
-  provider: false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id:
+    tracking_id: "G-933X3LN0YP"
     anonymize_ip: # true, false (default)
 
 # Site Author
@@ -271,7 +271,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: single
@@ -280,6 +280,8 @@ defaults:
       comments: true # comment 를 주석 해지 후 true로 수정하기
       share: true
       related: true
+      sidebar:
+        nav: "sidebar-category"
 
   # _pages
   - scope:
