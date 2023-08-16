@@ -2,6 +2,8 @@
 title: "Web/Mobile"
 layout: archive
 permalink: /webmobile
+sidebar:
+  nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.webmobile %}

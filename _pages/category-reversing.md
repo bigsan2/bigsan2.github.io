@@ -2,6 +2,8 @@
 title: "Reversing"
 layout: archive
 permalink: /reversing
+sidebar:
+  nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.reversing %}

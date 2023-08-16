@@ -2,6 +2,8 @@
 title: "게임"
 layout: archive
 permalink: /game
+sidebar:
+  nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.game %}

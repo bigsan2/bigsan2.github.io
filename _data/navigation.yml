@@ -3,7 +3,7 @@ main:
   #- title: "Home"
   #  url: "/"
   - title: "Search"
-    url: /search
+    url: "/search/"
 
 sidebar-category:
   - title: "🎞️ LIFE"

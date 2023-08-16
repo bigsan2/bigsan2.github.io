@@ -2,6 +2,8 @@
 title: "일상"
 layout: archive
 permalink: /today
+sidebar:
+  nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.today %}
